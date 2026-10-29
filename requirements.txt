@@ -9,4 +9,3 @@ langchain-community==0.3.14
 langchain-chroma==0.2.0
 langchain-google-genai==2.0.8
 chromadb==0.6.2
-langsmith==0.2.14
